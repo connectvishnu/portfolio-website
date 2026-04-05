@@ -1,2 +1,14 @@
-# portfolio-website
-Developed a simple To-Do List web application using HTML, CSS, and JavaScript. The application allows users to add tasks and mark them as completed using DOM manipulation.
+# Personal Portfolio Website
+
+This is my personal portfolio website built using HTML, CSS, and JavaScript.
+
+## Sections
+- About Me
+- Skills
+- Projects
+- Contact
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
